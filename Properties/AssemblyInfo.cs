@@ -5,7 +5,7 @@ using System.Runtime.InteropServices.ComTypes;
 using MelonLoader;
 using KillBind; // The namespace of your mod class
 // ...
-[assembly: MelonInfo(typeof(mainclass), "Kill Bind", "1.0.0", "https://steamcommunity.com/profiles/76561198806968871")]
+[assembly: MelonInfo(typeof(mainclass), "Kill Bind", "1.0.0", "StaplerOfSquirrels")]
 [assembly: MelonGame("David Szymanski", "Squirrel Stapler")]
 
 // General Information about an assembly is controlled through the following
