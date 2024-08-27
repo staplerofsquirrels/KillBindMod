@@ -1,6 +1,5 @@
 # KillBindMod
 Suicide is sadly not a feature of Squirrel Stapler, but this mod is here to change that!
-KillBind Mod For Squirrel Stapler
 How to use:
   Press K and die.
 # Installation:
