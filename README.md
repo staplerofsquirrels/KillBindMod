@@ -1,7 +1,8 @@
 # KillBindMod
+Suicide is sadly not a feature of Squirrel Stapler, but this mod is here to change that!
 KillBind Mod For Squirrel Stapler
 How to use:
   Press K and die.
 # Installation:
-  First download and install Melon Loader
-  Move the .dll file to the Mods directory
+  First download Melon Loader from melonwiki.xyz and then install it
+  Then move the .dll file to the Mods directory
