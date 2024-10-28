@@ -5,9 +5,9 @@ Press K and die.
 # Installation:
 Find your game directory by going to: Steam, Library, Left click on Squirrel Stapler, Manage, Browse local files.
 ## &nbsp;&nbsp;&nbsp;&nbsp;Windows
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First download Melon Loader from [https://melonwiki.xyz](melonwiki.xyz) and then install it<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First download Melon Loader from [melonwiki.xyz](https://melonwiki.xyz) and then install it<br />
 ## &nbsp;&nbsp;&nbsp;&nbsp;Linux
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download Melon Loader from [https://melonwiki.xyz](melonwiki.xyz) and I would recommended to install it manually on Linux.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download Melon Loader from [melonwiki.xyz](https://melonwiki.xyz) and I would recommended to install it manually on Linux.
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Steam/Proton
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Install [protontricks](https://github.com/Matoking/protontricks) either by using your package manager, or with flathub.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run protontricks by typing "protontricks --gui" into the command line
